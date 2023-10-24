@@ -5,9 +5,9 @@ Um projeto pessoal de análise estatística elaborado para exercitar o que apren
 
 Pontos explorados:
 
-Utilização da biblioteca Pandas para calcular Medidas Separatrizes e Medidas de Dispersão;
-Utilização da biblioteca Seaborn para plotar histogramas e boxplots;
-Distribuição de frequência;
-Média, mediana e moda;
-Percentil;
-Variância, Desvio Padrão e Coeficiente de Variação.
+- Utilização da biblioteca Pandas para calcular Medidas Separatrizes e Medidas de Dispersão;
+- Utilização da biblioteca Seaborn para plotar histogramas e boxplots;
+- Distribuição de frequência;
+- Média, mediana e moda;
+- Percentil;
+- Variância, Desvio Padrão e Coeficiente de Variação.
