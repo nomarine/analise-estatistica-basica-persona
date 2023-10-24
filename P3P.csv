@@ -1,0 +1,174 @@
+Race;Lvl;Name;Inherits;St;Ma;En;Ag;Lu;Slash;Bash;Pierce;Fire;Ice;Elec;Wind;Light;Dark
+Fool;90;Orpheus Telos;0;62;62;62;62;62;rs;rs;rs;rs;rs;rs;rs;rs;rs
+Fool;76;Susanoo;0;57;51;53;49;53;no;no;nu;no;no;rs;rs;wk;no
+Fool;58;Loki;0;41;47;30;42;21;no;no;no;wk;rs;no;ab;no;rs
+Fool;50;Decarabia;0;28;39;29;29;32;no;no;no;nu;wk;no;no;no;no
+Fool;44;Ose;0;32;26;30;27;24;no;no;no;rs;no;wk;no;no;nu
+Fool;34;Black Frost;0;23;25;22;22;25;no;no;no;rs;nu;no;no;wk;rs
+Fool;22;Legion;0;17;15;18;8;15;no;no;no;no;rs;no;no;wk;nu
+Fool;12;Slime;0;9;9;7;8;10;no;no;no;no;no;no;no;rs;wk
+Fool;1;Orpheus;512;2;2;2;2;2;no;no;no;no;no;wk;no;no;wk
+Magician;52;Surt;512;40;49;35;26;32;no;no;no;ab;wk;no;no;no;no
+Magician;40;Rangda;512;25;35;24;22;21;no;rp;no;rs;wk;wk;no;no;rs
+Magician;34;Orobas;64;20;29;21;22;17;no;no;no;no;wk;no;nu;no;rs
+Magician;28;Sati;512;17;25;18;16;15;no;no;no;nu;wk;no;no;no;no
+Magician;20;Hua Po;512;10;19;11;14;13;no;no;no;nu;wk;no;no;no;no
+Magician;14;Pyro Jack;512;7;14;9;8;11;no;no;no;nu;wk;no;no;no;no
+Magician;8;Jack Frost;256;5;8;8;4;6;no;no;no;wk;nu;no;no;no;no
+Magician;5;Nekomata;512;4;6;5;3;4;no;no;no;rs;no;no;no;no;no
+Priestess;64;Scathach;1024;51;53;29;49;40;no;no;rs;wk;rs;no;rs;rs;no
+Priestess;53;Kikuri-Hime;3;29;45;28;30;34;no;no;no;rp;wk;no;no;no;no
+Priestess;47;Parvati;256;24;38;25;30;31;no;no;no;wk;nu;no;no;no;no
+Priestess;35;Ganga;256;18;28;21;22;23;no;no;no;wk;nu;no;no;no;no
+Priestess;27;Sarasvati;256;13;23;14;20;18;no;no;no;no;nu;wk;no;no;no
+Priestess;21;High Pixie;256;13;18;12;11;16;no;no;no;no;nu;no;wk;no;no
+Priestess;11;Unicorn;3;7;10;8;9;6;no;no;no;wk;nu;no;no;rs;no
+Priestess;3;Apsaras;256;3;4;3;2;4;wk;no;no;no;rs;no;no;no;no
+Empress;84;Alilat;3;53;64;61;52;60;rs;rs;rs;no;no;no;no;no;wk
+Empress;80;Skadi;256;48;57;47;45;50;no;no;no;wk;ab;no;no;no;no
+Empress;74;Mother Harlot;16;48;55;50;43;51;no;no;no;wk;no;rp;no;no;rp
+Empress;69;Gabriel;256;43;49;35;45;42;no;no;no;no;rp;no;no;rp;wk
+Empress;62;Hariti;3;38;44;34;39;38;no;no;no;no;rp;no;no;no;rs
+Empress;57;Laksmi;256;31;45;32;33;37;no;no;no;wk;nu;no;no;rs;no
+Empress;50;Yaksini;4096;33;32;26;33;33;no;no;no;rs;no;no;no;no;no
+Empress;33;Leanan Sidhe;3;19;29;20;24;22;no;no;no;no;no;rs;no;no;no
+Emperor;57;Odin;128;39;52;33;36;39;no;no;no;no;no;ab;wk;no;no
+Emperor;52;Barong;4096;40;36;30;28;29;no;no;no;wk;no;nu;no;nu;wk
+Emperor;46;Kingu;3;31;37;30;23;24;no;no;no;wk;no;rs;no;no;rs
+Emperor;36;Raja Naga;1024;24;26;23;21;21;no;no;rs;wk;no;nu;no;no;no
+Emperor;30;King Frost;256;20;23;22;15;24;no;no;no;wk;nu;no;no;no;no
+Emperor;24;Take-Mikazuchi;128;19;18;13;15;14;rs;no;no;no;wk;nu;no;no;no
+Emperor;15;Oberon;128;12;15;9;8;8;no;no;no;no;wk;nu;no;rs;rs
+Emperor;7;Forneus;256;5;5;8;6;4;no;no;no;wk;rs;no;no;no;no
+Hierophant;66;Kohryu;3;49;51;58;30;41;no;no;no;no;no;no;no;nu;no
+Hierophant;53;Daisoujou;32;32;44;36;29;38;no;rs;no;no;no;no;no;nu;wk
+Hierophant;47;Hokuto Seikun;128;28;35;35;23;27;no;no;no;no;no;rs;wk;rs;rs
+Hierophant;41;Thoth;128;23;32;26;23;26;no;no;no;no;no;nu;wk;no;no
+Hierophant;33;Flauros;512;25;25;20;18;18;no;no;no;nu;no;no;wk;no;no
+Hierophant;26;Shiisaa;256;18;18;17;17;15;no;no;no;wk;nu;no;no;rs;no
+Hierophant;13;Berith;512;11;10;9;7;9;no;no;no;rs;no;wk;no;no;no
+Hierophant;7;Omoikane;128;4;7;6;4;7;no;no;no;no;no;rs;no;no;wk
+Lovers;68;Cybele;3;49;55;40;42;50;no;no;no;rs;no;rs;no;no;nu
+Lovers;61;Raphael;4096;44;42;31;31;42;no;no;no;no;rs;no;no;rp;wk
+Lovers;48;Titania;3;19;39;23;31;39;no;no;no;no;rs;wk;rs;no;no
+Lovers;39;Saki Mitama;3;20;32;20;22;30;no;wk;no;rs;rs;rs;no;no;no
+Lovers;27;Queen Mab;3;16;21;16;12;23;wk;no;no;rs;rs;nu;no;no;no
+Lovers;20;Narcissus;4;12;18;9;13;20;wk;no;no;no;rs;rs;rs;no;no
+Lovers;13;Tam Lin;1024;9;10;5;10;8;rs;no;no;rs;no;rs;no;nu;no
+Lovers;6;Alp;3;3;7;5;5;5;no;no;no;no;wk;no;rs;no;no
+Lovers;2;Pixie;3;2;3;2;3;3;no;no;no;no;no;rs;no;no;no
+Chariot;53;Thor;128;42;45;34;30;34;no;nu;no;no;no;nu;wk;no;no
+Chariot;43;Koumokuten;2048;35;24;31;21;25;no;rs;no;wk;no;rs;no;no;no
+Chariot;37;Nata Taishi;2048;29;19;24;29;26;no;rs;no;no;wk;no;rs;no;no
+Chariot;30;Oumitsunu;2048;26;14;26;11;20;no;rs;no;no;no;no;wk;no;no
+Chariot;19;Ares;4096;17;10;15;9;13;rs;no;no;rs;no;no;wk;no;no
+Chariot;14;Zouchouten;2048;14;6;13;7;9;no;rs;no;rs;no;no;wk;no;no
+Chariot;9;Chimera;4096;8;4;9;8;5;no;rs;no;rs;wk;no;no;no;no
+Chariot;6;Ara Mitama;2048;6;4;6;4;5;no;rs;no;no;no;no;wk;no;no
+Justice;59;Melchizedek;2048;50;46;43;36;31;no;rs;no;no;no;no;no;rp;wk
+Justice;51;Throne;32;35;32;26;34;33;no;no;no;rs;no;no;no;nu;wk
+Justice;42;Dominion;32;28;33;24;25;23;no;no;no;no;no;rs;no;nu;wk
+Justice;32;Virtue;32;22;23;15;20;23;no;no;no;no;no;no;no;nu;wk
+Justice;25;Power;32;20;19;15;16;12;no;no;no;no;no;no;rs;nu;wk
+Justice;16;Principality;32;12;13;7;11;12;no;no;no;rs;no;no;no;nu;wk
+Justice;10;Archangel;32;8;8;8;7;6;rs;no;no;no;no;no;wk;rs;wk
+Justice;4;Angel;64;4;5;3;4;3;no;no;no;no;no;no;no;rs;wk
+Hermit;60;Arahabaki;4;42;50;51;32;34;no;wk;no;nu;wk;rs;no;nu;rs
+Hermit;56;Kumbhanda;512;38;37;35;45;20;no;no;no;ab;no;no;wk;no;no
+Hermit;50;Nebiros;4;31;42;32;34;30;no;no;no;no;no;no;no;wk;nu
+Hermit;44;Kurama Tengu;4;27;29;30;35;18;no;no;no;no;no;wk;nu;no;rs
+Hermit;38;Taraka;4096;27;23;26;28;17;no;no;no;no;no;no;rs;no;no
+Hermit;32;Mothman;4;15;25;19;27;25;no;no;wk;no;no;rs;rs;no;rs
+Hermit;25;Lamia;16;15;20;12;18;17;no;wk;no;nu;rs;no;rs;no;nu
+Hermit;17;Naga;1024;14;10;12;14;8;no;no;no;no;no;rs;no;wk;rs
+Hermit;9;Yomotsu Shikome;16;3;8;9;10;4;no;no;no;no;no;no;no;no;rs
+Fortune;62;Norn;64;40;54;32;46;44;no;no;no;no;no;wk;ab;no;no
+Fortune;54;Atropos;64;26;45;27;31;40;no;no;no;no;no;wk;nu;no;no
+Fortune;45;Lachesis;64;26;36;19;31;30;no;no;no;no;no;wk;nu;no;no
+Fortune;38;Clotho;64;20;29;22;21;29;no;no;no;wk;no;no;nu;no;no
+Fortune;29;Kusi Mitama;64;16;23;20;11;24;no;no;no;no;no;rs;nu;no;wk
+Fortune;23;Empusa;64;10;20;10;16;20;no;no;no;wk;no;rs;rs;no;no
+Fortune;17;Fortuna;64;9;14;10;15;10;no;no;no;wk;no;no;rs;no;no
+Strength;59;Siegfried;4096;50;43;40;41;32;nu;rs;no;no;no;no;no;nu;wk
+Strength;55;Kali;4096;42;30;33;36;31;nu;no;no;no;no;no;wk;no;no
+Strength;46;Narasimha;4096;36;27;28;28;26;nu;no;no;no;no;no;wk;rs;no
+Strength;37;Hanuman;4096;26;23;20;22;27;no;no;no;no;no;rs;wk;rs;no
+Strength;29;Jikokuten;4096;24;19;19;14;18;rs;no;no;no;no;no;rs;no;wk
+Strength;23;Titan;4096;23;10;18;11;14;rs;no;no;wk;no;no;no;no;rs
+Strength;16;Rakshasa;4096;16;8;13;10;8;rs;no;no;no;no;no;no;wk;no
+Strength;11;Valkyrie;4096;10;7;8;8;7;rs;no;no;wk;no;no;no;no;no
+Hanged;67;Attis;3;46;54;56;44;32;rs;rs;rs;no;no;no;no;wk;no
+Hanged;60;Hell Biker;512;49;35;49;40;14;no;no;no;rp;no;wk;no;no;no
+Hanged;54;Hecatoncheires;2048;37;32;45;20;35;no;rs;no;no;no;no;no;wk;nu
+Hanged;48;Ubelluris;2048;32;29;40;24;26;no;rs;no;no;no;rs;wk;no;no
+Hanged;38;Vasuki;32;27;27;30;19;18;no;no;no;no;rs;no;wk;nu;no
+Hanged;28;Orthrus;512;22;14;20;21;14;no;no;no;nu;wk;no;no;no;no
+Hanged;21;Take-Minakata;128;16;16;19;10;9;no;rs;no;no;no;rs;no;wk;wk
+Hanged;10;Inugami;4;6;11;10;6;4;no;no;no;no;no;rs;no;no;wk
+Death;64;Thanatos;16;48;51;44;39;40;rs;rs;no;no;no;no;no;wk;rp
+Death;56;Alice;16;31;50;27;42;39;no;no;no;no;no;no;no;wk;rp
+Death;45;Mot;16;31;37;34;22;29;no;no;no;no;no;no;rs;wk;rp
+Death;37;Samael;16;27;31;26;20;23;no;no;no;no;no;no;no;wk;nu
+Death;31;Loa;16;21;26;24;19;18;no;no;no;no;no;rs;no;wk;rs
+Death;24;Pale Rider;16;20;19;15;19;12;no;no;no;no;no;no;rs;wk;rs
+Death;18;Ghoul;16;13;15;15;11;11;no;rs;wk;no;no;no;nu;wk;nu
+Temperance;64;Yurlungur;256;43;47;49;34;41;no;no;no;no;nu;wk;nu;no;wk
+Temperance;57;Byakko;128;49;36;34;48;32;rs;no;no;wk;no;ab;no;no;wk
+Temperance;51;Suzaku;512;32;39;32;40;29;no;no;no;nu;wk;no;no;no;no
+Temperance;44;Okuninushi;512;33;37;27;26;27;no;no;no;nu;wk;no;no;rs;no
+Temperance;36;Seiryu;64;26;24;27;22;25;no;no;no;no;no;wk;nu;rs;no
+Temperance;29;Genbu;256;19;22;26;12;22;no;rs;no;no;rs;wk;no;no;no
+Temperance;22;Mithra;32;17;20;17;11;13;no;no;no;no;nu;wk;no;nu;no
+Temperance;12;Nigi Mitama;64;9;8;10;9;10;no;no;no;no;no;wk;no;rs;rs
+Devil;81;Beelzebub;4;53;62;56;55;54;no;nu;no;wk;no;nu;nu;wk;rp
+Devil;68;Abaddon;4;46;52;49;33;44;no;no;no;nu;wk;no;no;wk;nu
+Devil;61;Lilith;4;39;52;38;40;36;no;no;no;no;no;ab;wk;wk;rp
+Devil;52;Pazuzu;4;34;41;31;36;34;no;no;no;no;no;no;nu;wk;rs
+Devil;43;Succubus;4;24;36;27;32;27;no;no;no;rs;no;no;no;wk;nu
+Devil;34;Incubus;4;21;30;20;21;25;no;no;no;nu;wk;no;no;wk;nu
+Devil;24;Vetala;4;21;16;21;10;17;no;no;no;rs;no;no;wk;wk;nu
+Devil;18;Mokoi;4;6;9;12;17;23;no;no;no;wk;nu;no;no;no;nu
+Devil;8;Lilim;4;4;10;6;6;7;no;no;no;no;no;rs;no;wk;rs
+Tower;86;Chi You;1024;65;56;62;54;59;rs;no;rs;no;no;wk;no;no;no
+Tower;82;Shiva;128;60;55;48;59;56;no;no;nu;no;wk;ab;no;nu;rs
+Tower;77;Mara;1024;60;50;52;48;51;no;no;ab;rp;wk;no;no;no;no
+Tower;73;Masakado;4096;56;46;52;49;45;nu;no;no;no;no;no;no;no;rp
+Tower;67;Seiten Taisei;1024;51;38;43;51;45;no;no;nu;wk;no;no;rs;no;no
+Tower;60;Bishamonten;512;47;44;41;34;39;no;no;nu;nu;wk;no;no;rs;no
+Tower;40;Cu Chulainn;1024;33;28;30;23;25;no;no;rs;no;no;rs;no;no;wk
+Tower;31;Eligor;1024;28;19;23;22;18;no;no;rs;nu;wk;no;no;wk;no
+Star;88;Helel;2048;64;63;61;57;58;rs;rs;rs;no;wk;no;no;nu;no
+Star;78;Saturnus;512;52;58;45;52;53;no;no;no;ab;wk;no;no;nu;no
+Star;70;Kartikeya;1024;52;44;42;53;43;no;no;rs;wk;no;nu;no;no;wk
+Star;65;Garuda;64;47;42;35;53;41;rs;rs;no;no;no;wk;rs;rp;wk
+Star;58;Ganesha;4096;49;35;39;32;40;no;no;no;no;no;no;ab;no;wk
+Star;49;Kaiwan;4;35;39;33;26;33;no;no;no;rs;rs;wk;no;wk;rs
+Star;39;Nandi;64;29;26;29;17;32;no;no;no;wk;no;no;nu;rs;no
+Star;28;Setanta;1024;26;19;18;21;14;no;no;no;wk;no;no;no;no;wk
+Star;19;Neko Shogun;2048;18;11;11;19;7;rs;no;no;no;no;no;wk;nu;nu
+Moon;74;Sandalphon;32;54;54;50;47;51;no;nu;no;no;no;no;no;rp;no
+Moon;71;Baal Zebul;16;50;55;47;44;41;no;no;no;wk;no;rs;rs;wk;rp
+Moon;66;Seth;512;48;53;46;34;40;no;no;no;rp;no;no;no;wk;rs
+Moon;58;Chernobog;16;46;47;32;36;34;nu;no;no;no;no;no;wk;no;nu
+Moon;48;Dionysus;128;30;41;26;30;36;rs;rs;no;no;no;rs;wk;no;no
+Moon;42;Girimehkala;4096;32;30;24;28;29;rp;no;no;no;no;no;wk;wk;no
+Moon;26;Yamatano-Orochi;2048;21;17;21;13;19;wk;no;no;no;nu;no;nu;no;no
+Moon;15;Gurr;4096;13;9;12;13;9;no;no;no;no;no;no;rs;wk;rs
+Sun;85;Asura;512;62;60;58;56;57;no;no;no;ab;no;no;no;rp;wk
+Sun;78;Vishnu;2048;53;58;47;56;51;no;no;no;no;nu;nu;no;rp;wk
+Sun;70;Suparna;64;44;52;43;54;45;no;no;wk;no;no;nu;nu;nu;no
+Sun;63;Horus;32;49;50;33;44;39;no;no;no;no;nu;no;no;nu;wk
+Sun;55;Jatayu;64;35;40;31;44;39;no;no;wk;rs;no;wk;ab;nu;no
+Sun;43;Quetzalcoatl;64;28;29;30;32;30;no;no;no;no;no;no;rs;nu;wk
+Sun;30;Yatagarasu;3;22;23;18;24;19;no;no;no;no;no;no;rs;nu;wk
+Judgement;90;Messiah;48;63;62;60;62;63;no;no;no;rs;rs;rs;rs;rp;wk
+Judgement;89;Lucifer;16;65;68;64;52;52;rs;rs;rs;no;wk;nu;no;no;rp
+Judgement;79;Satan;48;51;60;52;47;58;no;no;no;rp;no;no;wk;no;rp
+Judgement;72;Michael;128;51;47;46;50;51;no;no;no;no;rs;rs;no;rp;wk
+Judgement;65;Trumpeter;48;43;47;43;46;43;no;no;no;wk;rs;rs;no;nu;rs
+Judgement;59;Anubis;48;41;50;38;37;36;no;no;no;no;no;no;no;rs;rs
+Aeon;87;Metatron;32;61;65;57;61;56;no;rs;no;no;no;no;no;rp;wk
+Aeon;80;Atavaka;32;57;54;50;54;56;no;no;nu;no;wk;no;no;rp;wk
+Aeon;75;Ananta;3;52;56;60;39;48;no;no;no;no;rs;no;wk;nu;no
+Aeon;69;Nidhoggr;16;55;45;55;32;48;no;no;no;no;rs;no;wk;wk;rp
+Aeon;63;Uriel;32;44;51;41;41;38;no;no;no;ab;wk;no;no;nu;wk
